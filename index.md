@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的世界
 
-You can use the [editor on GitHub](https://github.com/lbf1121/lbf1121.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+一个朴实无华，简单又复杂的世界
 
 ### Markdown
 
@@ -27,10 +25,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lbf1121/lbf1121.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
